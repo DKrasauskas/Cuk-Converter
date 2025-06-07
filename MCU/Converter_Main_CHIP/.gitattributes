@@ -1,1 +1,12 @@
-
+CCore/Inc/** linguist-vendored
+Core/Startup/** linguist-vendored
+.settings/** linguist-vendored
+Debug/** linguist-vendored
+Drivers/** linguist-vendored
+.cproject** linguist-vendored
+.mxproject** linguist-vendored
+.project** linguist-vendored
+Converter_Main_CHIP Debug.launch** linguist-vendored
+Converter_Main_CHIP.ioc** linguist-vendored
+STM32G474RETX_FLASH.Id** linguist-vendored
+STM32G474RETX_RAM.Id** linguist-vendored
