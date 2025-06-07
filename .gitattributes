@@ -1,12 +1,12 @@
-Core/Inc/** linguist-vendored
-Core/Startup/** linguist-vendored
-.settings/** linguist-vendored
-Debug/** linguist-vendored
-Drivers/** linguist-vendored
-.cproject** linguist-vendored
-.mxproject** linguist-vendored
-.project** linguist-vendored
-SPI_REG Debug.launch** linguist-vendored
-SPI_REG.ioc** linguist-vendored
-STM32G474RETX_FLASH.Id** linguist-vendored
-STM32G474RETX_RAM.Id** linguist-vendored
+MCU/Converter_Main_CHIP/Core/Inc/** linguist-vendored
+MCU/Converter_Main_CHIP/Core/Startup/** linguist-vendored
+MCU/Converter_Main_CHIP/.settings/** linguist-vendored
+MCU/Converter_Main_CHIP/Debug/** linguist-vendored
+MCU/Converter_Main_CHIP/Drivers/** linguist-vendored
+MCU/Converter_Main_CHIP/.cproject** linguist-vendored
+MCU/Converter_Main_CHIP/.mxproject** linguist-vendored
+MCU/Converter_Main_CHIP/.project** linguist-vendored
+MCU/Converter_Main_CHIP/SPI_REG Debug.launch** linguist-vendored
+MCU/Converter_Main_CHIP/SPI_REG.ioc** linguist-vendored
+MCU/Converter_Main_CHIP/STM32G474RETX_FLASH.Id** linguist-vendored
+MCU/Converter_Main_CHIP/STM32G474RETX_RAM.Id** linguist-vendored
